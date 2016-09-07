@@ -1,6 +1,4 @@
 <?php
-//перенести все в один файл с гет параметрами ?
-
 /**
  * Perform curl multi-request to handle all files at same time
  *
