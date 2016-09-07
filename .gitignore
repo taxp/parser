@@ -1,0 +1,5 @@
+# phpstorm project files
+.idea
+
+/result.csv
+error.log
